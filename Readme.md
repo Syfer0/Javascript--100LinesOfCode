@@ -21,7 +21,7 @@ Every day, I'll be posting new assignments that involve writing at least 100 lin
 
 ## How to Participate
 
-1. Clone this repository: `git clone https://github.com/YourUsername/100-lines-of-code-daily.git`
+1. Clone this repository: `https://github.com/Syfer0/Javascript--100LinesOfCode.git`
 2. Navigate to the daily challenges directory: `cd 100-lines-of-code-daily/daily-challenges`
 3. Create a new branch for each day's challenge: `git checkout -b day-1`
 4. Write your code in the provided files or create new ones.
