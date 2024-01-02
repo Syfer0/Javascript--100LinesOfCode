@@ -8,12 +8,12 @@ Every day, I'll be posting new assignments that involve writing at least 100 lin
 
 ## Daily Assignments
 
-- **Day 1:** [Array Manipulation](daily-challenges/day-1/)
+- **Day 1:** [Array Manipulation](100-lines-of-code-daily/day-1/)
 
   - Focus: Map, Filter, Reduce, Slice, Arrow Functions
   - Task: Double expenses, filter high expenses, calculate total, slice array, and get unique categories.
 
-- **Day 2:** [Your Assignment Title](daily-challenges/day-2/)
+- **Day 2:** [Your Assignment Title](100-lines-of-code-daily/day-2/)
   - Focus: [Your Focus Areas]
   - Task: [Brief description of the assignment]
 
