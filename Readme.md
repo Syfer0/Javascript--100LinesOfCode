@@ -4,6 +4,8 @@ Welcome to my 100 Lines of Code Daily Challenge repository! 🚀 In this challen
 
 ## How It Works
 
+# "Before beginning the exercise, carefully copy and paste all the provided steps into your coding environment. Challenge yourself to complete the code without referring to the solution. If you encounter difficulties during the coding process, feel free to consult the solution for guidance."
+
 Every day, I'll be posting new assignments that involve writing at least 100 lines of code. The challenges will cover various aspects of JavaScript, with an emphasis on array methods, arrow functions, and other syntax-related concepts.
 
 ## Daily Assignments
